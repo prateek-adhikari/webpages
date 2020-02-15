@@ -1,0 +1,126 @@
+.brandname{
+	font-size: 30px !important;
+	font-family: 'Krub', sans-serif;
+	color: #6b6b6b !important;
+}
+.imagebg{
+	background-image: url(https://motionarray-portfolio.imgix.net/preview-83721-73b2ffab8d22cad99c5c66f9b51b4993-high.jpg?w=750&q=60&fit=max&auto=format);
+	background-size: cover;
+	background-position: center;
+}
+.jumbcont{
+	margin: 7%;
+}
+.textclr{
+	color: #fbfbfb;
+}
+#webdev{
+	color: #f8bc02;
+	font-weight: bolder;
+}
+.btncol{
+	background-color: #f8bc02;
+	color: #fbfbfb;
+	font-family: font-family: 'Roboto Slab', serif;
+
+}
+.specialisationbox{
+	margin-top: 5%;
+	margin-bottom: 10%;
+}
+.specialise{
+	font-family: 'Quicksand', sans-serif;
+}
+h3>span{
+	border-bottom: 1px solid black;
+}
+.commit{
+	font-size: 23px;
+	font-family: 'Playfair Display', serif;
+}
+.specialisetext{
+	font-size: 17px;
+	font-family: 'Abel', sans-serif;
+}
+.backcolor{
+	background-color: #eeeeee;
+	padding-top: 8%;
+	padding-bottom: 8%;
+	font-family: 'Quicksand', sans-serif;
+}
+.backcolor1{
+	background-color: #cccccc; 
+	padding-top: 8%;
+	padding-bottom: 8%;
+	font-family: 'Quicksand', sans-serif;
+}
+.numsize{
+	font-size: 20px;
+	font-weight: bolder;
+}
+.iconadj{
+	margin-left: 42%;
+	margin-bottom: 5%;	
+}
+.workingbox{
+	margin-top: 10%;
+	margin-bottom: 15%;
+}
+.workicon{
+	margin-left: 20%;
+	margin-bottom: 5%;
+}
+.acol{
+	color: #f8bc02;
+}
+.workngicon{
+	background-color: black;
+	border-radius: 50%;
+	padding: 30%;
+	margin-bottom: 30px;	
+	justify-content: center;
+}
+.aboutme{
+	background-color: #eeeeee;
+	padding: 5% 2%;
+}
+.aboutimg{
+	background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD70fvGVn7OdAGd6jRhWTliXsBpD0IzhAuvIJmAG9GmTiiathR);
+	background-size: cover;
+	background-position: center;
+}
+.aboutext{
+	font-family: 'Playfair Display', serif;
+	font-weight: light;
+	margin-bottom: 20px;
+}
+.aboutcont{
+	font-family: 'Abel', sans-serif;
+	font-weight: lighter;	
+	font-size: 25px;
+	font-color: #232323;
+}
+.aboutcont1{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	font-color: #232323;
+}
+.aboutcont2{
+	font-family: 'Quicksand', sans-serif;
+	font-size: 15px;
+	color: #232323;
+}
+#bullets{
+	list-style: circle;
+}
+.redicon{
+	color: red;
+}
+.footback{
+	background-color: #232323;
+	padding: 1% 0%;
+}
+.copyri{
+	color: white !important;
+	margin-top: 5%;
+}
